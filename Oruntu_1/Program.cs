@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //3ve5in katı=KerimAkosman, 3ün katı Kerim, 5in katı=Akosman, harici i nin kendisi
+            //3ve5in katı=KerimAkosman, 3ün katı Kerim, 5in katı=Akosman, harici i nin kendisini console yazdır
 
             Console.WriteLine("Lütfen Bir Sayi Giriniz :");
             int girilensayi = int.Parse(Console.ReadLine());
