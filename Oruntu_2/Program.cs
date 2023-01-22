@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             //Ekrana 10 değeri yazdırıldığında aşağıdaki gibi görüntü gelsin..
             //       .         #
             //       .        ##
